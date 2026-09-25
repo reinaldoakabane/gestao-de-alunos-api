@@ -1,0 +1,8 @@
+{
+    "aluno": {
+        "senha": "123456"
+    },
+    "trabalho": {
+        "disciplinaId": "disciplina-matematica"
+    }
+}
